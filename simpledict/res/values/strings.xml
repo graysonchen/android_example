@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">英文词典</string>
+    <string name="searchWord">查找</string>
+    
+</resources>
